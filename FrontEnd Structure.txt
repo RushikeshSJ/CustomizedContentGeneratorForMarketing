@@ -1,0 +1,18 @@
+src
+│
+├── components  // View Components
+│   ├── ContentForm.jsx
+│   ├── GeneratedContent.jsx
+│   └── Navbar.jsx
+│
+├── controllers // Controllers for API Handling
+│   └── contentController.js
+│
+├── models      // For any data models (if needed for structure)
+│   └── contentModel.js
+│
+├── App.js
+├── index.js
+└── styles      // Centralized CSS
+    ├── app.css
+    └── components.css
