@@ -38,8 +38,10 @@ The Customized Content Generator for Marketing (CCGFM) is a web-based applicatio
    npm start
 
 **🚀 Usage**
+
 **1. Access the Application:**
    Open a web browser and navigate to http://localhost:3000. 🌐
+   
 **2. Generate Content:**
    I: Select a template or create a new one 🖋️.
    II: Input the desired parameters for content customization 🎯.
