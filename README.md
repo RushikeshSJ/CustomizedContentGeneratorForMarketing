@@ -18,12 +18,19 @@ The Customized Content Generator for Marketing (CCGFM) is a web-based applicatio
 5. **Version Control:** Git for source code management 🌀
 
 **⚙️ Installation**
-1️⃣ Clone the Repository
+**1️⃣ Clone the Repository**
   git clone https://github.com/RushikeshSJ/CustomizedContentGeneratorForMarketing.git
-2️⃣ Backend Setup
+**2️⃣ Backend Setup**
   1. Navigate to the CCGFM-BackEnd/ContentGenerator directory.
   2. Ensure Java and Maven are installed.
   3. Build the project:
      mvn clean install
   4. Run the Spring Boot application:
      mvn spring-boot:run
+**3️⃣ Frontend Setup**
+1. Navigate to the CCGFM-FrontEnd/content-generator directory.
+2. Ensure Node.js, Axios and npm are installed.
+3. Install dependencies:
+   npm install
+4. Start the development server:
+   npm start
