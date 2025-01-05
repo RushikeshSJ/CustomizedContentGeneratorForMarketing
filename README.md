@@ -34,3 +34,19 @@ The Customized Content Generator for Marketing (CCGFM) is a web-based applicatio
    npm install
 4. Start the development server:
    npm start
+
+**🚀 Usage**
+**1. Access the Application:**
+   Open a web browser and navigate to http://localhost:3000. 🌐
+**2. Generate Content:**
+   I: Select a template or create a new one 🖋️.
+   II: Input the desired parameters for content customization 🎯.
+   III: Preview and edit the generated content as needed 🔍✏️.
+   IV: Save or export the finalized content for marketing use 📂.
+
+**🤝 Contributing**
+Contributions are welcome! 🎉 Follow these steps:
+**1. Fork the Repository:** Click the 'Fork' button at the top right of this page 🍴.
+**2. Create a Branch:**  git checkout -b feature/YourFeatureName
+**3. Commit Your Changes:** git commit -m 'Add Your Feature'
+**4. Push to the Branch:** git push origin feature/YourFeatureName
