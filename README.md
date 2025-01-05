@@ -50,3 +50,13 @@ Contributions are welcome! 🎉 Follow these steps:
 **2. Create a Branch:**  git checkout -b feature/YourFeatureName
 **3. Commit Your Changes:** git commit -m 'Add Your Feature'
 **4. Push to the Branch:** git push origin feature/YourFeatureName
+**5. Open a Pull Request:** Navigate to your forked repository and click the 'New Pull Request' button 🚀.
+
+**📜 License**
+This project is licensed under the Apache License. 📄 See the LICENSE file for details.
+
+**📞 Contact**
+**Email: rushikeshjadhav2018@gmail.com
+Phone: +91 8788772381**
+
+**Enjoy building with CCGFM! 🚀✨**
